@@ -78,3 +78,7 @@ Compare category-level contributions
 Identify trends across time and regions
 Support data-driven decision-making through visualization
 
+## Dashboard:
+
+<img width="1313" height="733" alt="Screenshot 2026-03-20 185857" src="https://github.com/user-attachments/assets/9d931247-b6d7-47de-a5b2-12ab410f1c9f" />
+
